@@ -1,5 +1,7 @@
 class Person 
-  
+  def initialize(person_name, job)
+    @this_person
+    
   def name=(person_name)
     @this_person_name = person_name
   end
